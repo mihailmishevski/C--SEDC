@@ -1,0 +1,13 @@
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\bin\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.exe
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\bin\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\bin\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\bin\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\bin\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.dll
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\bin\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.dll
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp-Basic-G2-If-Else\obj\Debug\netcoreapp3.1\CSharp-Basic-G2-If-Else.genruntimeconfig.cache

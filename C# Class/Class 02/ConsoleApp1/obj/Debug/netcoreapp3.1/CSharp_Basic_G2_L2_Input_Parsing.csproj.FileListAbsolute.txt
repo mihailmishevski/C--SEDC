@@ -1,0 +1,14 @@
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.exe
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.dll
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.dll
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\ConsoleApp1\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_L2_Input_Parsing.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.exe
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.dll
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\bin\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.dll
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\Class 02\CSharp_Basic_G2_Input_Exercise\obj\Debug\netcoreapp3.1\CSharp_Basic_G2_Input_Exercise.genruntimeconfig.cache
