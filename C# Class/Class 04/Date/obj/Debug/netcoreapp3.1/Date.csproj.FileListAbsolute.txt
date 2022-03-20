@@ -1,0 +1,13 @@
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\bin\Debug\netcoreapp3.1\Date.exe
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\bin\Debug\netcoreapp3.1\Date.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\bin\Debug\netcoreapp3.1\Date.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache

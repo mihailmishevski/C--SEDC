@@ -1,0 +1,13 @@
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\bin\Debug\netcoreapp3.1\Exercise 03.exe
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\bin\Debug\netcoreapp3.1\Exercise 03.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\bin\Debug\netcoreapp3.1\Exercise 03.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\bin\Debug\netcoreapp3.1\Exercise 03.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\bin\Debug\netcoreapp3.1\Exercise 03.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\bin\Debug\netcoreapp3.1\Exercise 03.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\Exercise 03\obj\Debug\netcoreapp3.1\Exercise 03.genruntimeconfig.cache

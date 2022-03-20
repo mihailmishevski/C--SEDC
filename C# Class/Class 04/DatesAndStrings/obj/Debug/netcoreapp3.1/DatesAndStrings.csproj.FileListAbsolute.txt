@@ -1,0 +1,14 @@
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\bin\Debug\netcoreapp3.1\DatesAndStrings.exe
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\bin\Debug\netcoreapp3.1\DatesAndStrings.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\bin\Debug\netcoreapp3.1\DatesAndStrings.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\bin\Debug\netcoreapp3.1\DatesAndStrings.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\bin\Debug\netcoreapp3.1\DatesAndStrings.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\bin\Debug\netcoreapp3.1\DatesAndStrings.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class\Class 04\DatesAndStrings\obj\Debug\netcoreapp3.1\DatesAndStrings.genruntimeconfig.cache
