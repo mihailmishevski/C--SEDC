@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_02_Mihail_Mishevski_Task_1\\CSharp_Homework_02_Mihail_Mishevski_Task_1.csproj",
-      "projectName": "CSharp_Homework_02_Mihail_Mishevski_Task_1",
-      "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_02_Mihail_Mishevski_Task_1\\CSharp_Homework_02_Mihail_Mishevski_Task_1.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_02_Mihail_Mishevski_Task_1\\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj",
+      "projectName": "CSharp_Homework_03_Mihail_Mishevski_Task_1",
+      "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_02_Mihail_Mishevski_Task_1\\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_02_Mihail_Mishevski_Task_1\\obj\\",
       "projectStyle": "PackageReference",

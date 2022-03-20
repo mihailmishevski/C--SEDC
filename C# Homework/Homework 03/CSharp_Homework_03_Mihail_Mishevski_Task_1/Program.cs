@@ -1,7 +1,7 @@
-﻿using CSharp_Homework_02_Mihail_Mishevski_Task_1.Entities;
+﻿using CSharp_Homework_03_Mihail_Mishevski_Task_1.Entities;
 using System;
 
-namespace CSharp_Homework_02_Mihail_Mishevski_Task_1
+namespace CSharp_Homework_03_Mihail_Mishevski_Task_1
 {
     class Program
     {
@@ -47,18 +47,31 @@ namespace CSharp_Homework_02_Mihail_Mishevski_Task_1
                 Console.WriteLine("Choose the first car! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
                 string firstCar = Console.ReadLine();
                 bool firstCarBool = int.TryParse(firstCar, out int firstCarInt);
+                Console.WriteLine($"You chose {cars[firstCarInt].Model} as your first car!");
 
                 Console.WriteLine("Choose the driver of the first car! Press - 1. Bob 2. Greg 3. Jill 4. Anne");
                 string firstDriver = Console.ReadLine();
                 bool firstDriverBool = int.TryParse(firstDriver, out int firstDriverInt);
-            
+                Console.WriteLine($"You chose {driver[firstDriverInt].Name} as your first driver!");
+
                 Console.WriteLine("Choose the second car! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
                 string secondCar = Console.ReadLine();
                 bool secondCarBool = int.TryParse(secondCar, out int secondCarInt);
 
+                while(secondCarInt == firstCarInt)
+                {
+                    Console.WriteLine("You can not choose the same car twice please pick a different car!");
+                    Console.WriteLine("Choose the second car! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
+                    secondCar = Console.ReadLine();
+                    secondCarBool = int.TryParse(secondCar, out secondCarInt);
+                }
+                Console.WriteLine($"You chose {cars[secondCarInt].Model} as your second car!");
+
+
                 Console.WriteLine("Choose the driver of the second car! Press - 1. Bob 2. Greg 3. Jill 4. Anne");
                 string secondDriver = Console.ReadLine();
                 bool secondDriverBool = int.TryParse(secondDriver, out int secondDriverInt);
+                Console.WriteLine($"You chose {driver[secondCarInt].Name} as your second driver!");
 
                 if (firstCarInt <= 0 || firstDriverInt <= 0 || secondCarInt <= 0 || secondDriverInt <= 0 ||
                    firstCarInt > 4 || firstDriverInt > 4 || secondCarInt > 4 || secondDriverInt > 4)

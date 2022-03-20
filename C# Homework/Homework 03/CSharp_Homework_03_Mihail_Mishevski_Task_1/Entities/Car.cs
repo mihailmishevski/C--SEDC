@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharp_Homework_02_Mihail_Mishevski_Task_1.Entities
+namespace CSharp_Homework_03_Mihail_Mishevski_Task_1.Entities
 {
     internal class Car
     {
