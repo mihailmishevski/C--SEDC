@@ -10,7 +10,9 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1.Entities
 
         public int Speed;
 
-        public int result;
+        public int Result;
+
+        public Driver Driver;
 
         public Car(string carModel, int carSpeed)
         {
@@ -18,10 +20,10 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1.Entities
             Speed = carSpeed;
         }
 
-        public int CalculateSpeed(int Skill)
+        public int CalculateSpeed(int skill)
         {
-            result = Skill * Speed;
-            return result;
+            Result = skill * Speed;
+            return Result;
         }
     }
 }

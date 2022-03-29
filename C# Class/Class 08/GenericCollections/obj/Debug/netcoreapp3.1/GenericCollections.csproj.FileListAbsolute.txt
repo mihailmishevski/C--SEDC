@@ -1,0 +1,14 @@
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\mihai\Desktop\C#\C# Class\Class 08\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.genruntimeconfig.cache
