@@ -44,9 +44,19 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1
 
             while (goAgain.ToLower() == "yes")
             { 
-                int firstCar = FirstCar(cars);
+                int firstCar = Car(cars);
                 int firstDriver = Driver(driver);
-                int secondCar = SecondCar(cars, firstCar);
+
+                Console.WriteLine("Now you will be choosing for the second car, make sure not to pick the same car twice!");
+
+                int secondCar = Car(cars);
+
+                while(secondCar == firstCar)
+                {
+                    Console.WriteLine("You can not pick the same car twice! Try again!;");
+                    secondCar = Car(cars);
+                }
+
                 int secondDriver = Driver(driver);
 
                 if (firstCar <= 0 || firstDriver <= 0 || secondCar <= 0 || secondDriver <= 0 ||
@@ -79,32 +89,14 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1
             }
         }
 
-        public static int FirstCar(Car[] car)
+        public static int Car(Car[] car)
         {
-            Console.WriteLine("Choose the first car! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
+            Console.WriteLine("Choose the car you want to drive! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
             string firstCar = Console.ReadLine();
             bool firstCarBool = int.TryParse(firstCar, out int carInt);
-            Console.WriteLine($"You chose {car[carInt].Model} as your first car!");
+            Console.WriteLine($"You chose {car[carInt].Model} as your car!");
 
             return carInt;
-        }
-
-        public static int SecondCar(Car[] car, int firstCarInt)
-        {
-            Console.WriteLine("Choose the second car! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
-            string secondCar = Console.ReadLine();
-            bool secondCarBool = int.TryParse(secondCar, out int secondCarInt);
-
-            while (secondCarInt == firstCarInt)
-            {
-                Console.WriteLine("You can not choose the same car twice please pick a different car!");
-                Console.WriteLine("Choose the second car! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
-                secondCar = Console.ReadLine();
-                secondCarBool = int.TryParse(secondCar, out secondCarInt);
-            }
-            Console.WriteLine($"You chose {car[secondCarInt].Model} as your second car!");
-
-            return secondCarInt;
         }
 
         public static int Driver(Driver[] driver)
