@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Exercise 01\\Exercise 01.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Exercise 01\\Exercise 01.csproj",
       "projectName": "Exercise 01",
-      "projectPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Exercise 01\\Exercise 01.csproj",
+      "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Exercise 01\\Exercise 01.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Exercise 01\\obj\\",
+      "outputPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Exercise 01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Entities\\Entities.csproj"
+            "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Entities\\Entities.csproj"
             }
           }
         }
@@ -83,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

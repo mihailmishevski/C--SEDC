@@ -25,6 +25,8 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1
                 new Driver("Anne", 4)
             };
 
+            bool check = true;
+
             Console.WriteLine("We will compare two drivers with two cars and see who is faster!");
 
             Console.WriteLine("If you want to proceed type yes, if you want to stop type no!");
@@ -43,32 +45,47 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1
             }
 
             while (goAgain.ToLower() == "yes")
-            { 
-                int firstCar = Car(cars);
-                int firstDriver = Driver(driver);
+            {
+
+                int firstCarIndex = ReadCarIndexInput();
+
+                int firstDriverIndex = ReadDriverIndexInput();
+
+                if (firstCarIndex == -1)
+                {
+                    Console.WriteLine("Invalid index");
+                    break;
+                }
+
+                Car firstCar = GetCar(cars, firstCarIndex);
+
+                Driver firstDriver = Driver(driver, firstDriverIndex);
 
                 Console.WriteLine("Now you will be choosing for the second car, make sure not to pick the same car twice!");
 
-                int secondCar = Car(cars);
+                int secondCarIndex = ReadCarIndexInput();
 
-                while(secondCar == firstCar)
+                while (check)
                 {
-                    Console.WriteLine("You can not pick the same car twice! Try again!;");
-                    secondCar = Car(cars);
+                    if (firstCarIndex == secondCarIndex)
+                    {
+                        Console.WriteLine("You cannot chose the same car twice! Enter a new number!");
+                        secondCarIndex = ReadCarIndexInput();
+                    }
+                    else
+                    {
+                        check = false;
+                    }
                 }
 
-                int secondDriver = Driver(driver);
+                int secondDriverIndex = ReadDriverIndexInput();
 
-                if (firstCar <= 0 || firstDriver <= 0 || secondCar <= 0 || secondDriver <= 0 ||
-                   firstCar > 4 || firstDriver > 4 || secondCar > 4 || secondDriver > 4)
-                {
-                    Console.WriteLine("You entered the wrong parameters program stopping!");
-                    return;
-                }
-                else
-                {
-                    Console.WriteLine(RaceCars(cars, driver, firstCar, secondCar, firstDriver, secondDriver));
-                }
+                Car secondCar = GetCar(cars, secondCarIndex);
+
+                Driver secondDriver = Driver(driver, secondDriverIndex);
+
+                Console.WriteLine(RaceCars(firstCar, firstDriver, secondCar, secondDriver));
+                
                 Console.WriteLine("Race again!? Type yes to go again, no to stop!");
 
                 goAgain = Console.ReadLine();
@@ -77,36 +94,54 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1
         }
 
 
-        public static string RaceCars(Car[] car, Driver[] driver, int firstCarIndex, int secondCarIndex, int firstDriverIndex, int secondDriverIndex)
+        public static string RaceCars(Car carOne, Driver driverOne, Car carTwo, Driver driverTwo)
         {
-            if (car[firstCarIndex].CalculateSpeed(driver[firstDriverIndex].Skill) > car[secondCarIndex].CalculateSpeed(driver[secondDriverIndex].Skill))
+            if (carOne.CalculateSpeed(driverOne.Skill) > carTwo.CalculateSpeed(driverTwo.Skill))
             {
-                return ($"{car[firstCarIndex].Model} with the driver {driver[firstDriverIndex].Name} is faster with speed of {car[firstCarIndex].CalculateSpeed(driver[firstDriverIndex].Skill)}");
+                return ($"{carOne.Model} with the driver {driverOne.Name} is faster with speed of {carOne.CalculateSpeed(driverOne.Skill)}");
             }
             else
             {
-                return ($"{car[secondCarIndex].Model} with the driver {driver[secondDriverIndex].Name} is faster with the speed of {car[secondCarIndex].CalculateSpeed(driver[secondDriverIndex].Skill)}!");
+                return ($"{carTwo.Model} with the driver {driverTwo.Name} is faster with the speed of {carTwo.CalculateSpeed(driverTwo.Skill)}!");
             }
         }
 
-        public static int Car(Car[] car)
+        public static Car GetCar(Car[] car, int carIndex)
+        {
+            return car[carIndex];
+        }
+
+        public static int ReadCarIndexInput()
         {
             Console.WriteLine("Choose the car you want to drive! Press - 1. Hyundai 2. Mazda 3. Ferrari 4. Porsche!");
             string firstCar = Console.ReadLine();
-            bool firstCarBool = int.TryParse(firstCar, out int carInt);
-            Console.WriteLine($"You chose {car[carInt].Model} as your car!");
+            bool canParseFirstCar = int.TryParse(firstCar, out int carIndex);
 
-            return carInt;
+            if (!canParseFirstCar || (carIndex > 4 || carIndex < 0))
+            {
+                return -1;
+            }
+
+            return carIndex;
         }
 
-        public static int Driver(Driver[] driver)
+        public static Driver Driver(Driver[] driver, int driverIndex)
+        {
+            return driver[driverIndex];
+        }
+
+        public static int ReadDriverIndexInput()
         {
             Console.WriteLine("Choose the driver of the car! Press - 1. Bob 2. Greg 3. Jill 4. Anne");
             string firstDriver = Console.ReadLine();
-            bool firstDriverBool = int.TryParse(firstDriver, out int driverInt);
-            Console.WriteLine($"You chose {driver[driverInt].Name} as your driver!");
+            bool canParseFirstDriver = int.TryParse(firstDriver, out int driverIndex);
 
-            return driverInt;
+            if (!canParseFirstDriver || (driverIndex > 4 || driverIndex < 0))
+            {
+                return -1;
+            }
+
+            return driverIndex;
         }
     }
 }

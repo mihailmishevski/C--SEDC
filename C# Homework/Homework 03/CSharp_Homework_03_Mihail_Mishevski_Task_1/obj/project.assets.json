@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_03_Mihail_Mishevski_Task_1\\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 03\\CSharp_Homework_03_Mihail_Mishevski_Task_1\\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj",
       "projectName": "CSharp_Homework_03_Mihail_Mishevski_Task_1",
-      "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_03_Mihail_Mishevski_Task_1\\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj",
+      "projectPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 03\\CSharp_Homework_03_Mihail_Mishevski_Task_1\\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 03\\CSharp_Homework_03_Mihail_Mishevski_Task_1\\obj\\",
+      "outputPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 03\\CSharp_Homework_03_Mihail_Mishevski_Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

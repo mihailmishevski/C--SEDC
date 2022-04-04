@@ -12,3 +12,17 @@ C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 03\CSharp_
 C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.dll
 C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.pdb
 C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.genruntimeconfig.cache
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\bin\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.exe
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\bin\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.deps.json
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\bin\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.runtimeconfig.json
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\bin\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.runtimeconfig.dev.json
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\bin\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.dll
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\bin\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.pdb
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj.AssemblyReference.cache
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.AssemblyInfoInputs.cache
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.AssemblyInfo.cs
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.dll
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.pdb
+C:\Users\mihai\Downloads\C-Basic-SEDC-main\C# Homework\Homework 03\CSharp_Homework_03_Mihail_Mishevski_Task_1\obj\Debug\netcoreapp3.1\CSharp_Homework_03_Mihail_Mishevski_Task_1.genruntimeconfig.cache

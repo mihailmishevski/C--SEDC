@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai\\Downloads\\C-Basic-SEDC-main\\C# Homework\\Homework 04\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Homework\\Homework 04\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,13 +5,11 @@
     "\\Exercise 01\\bin",
     "\\Exercise 01\\bin\\Debug",
     "\\Exercise 01\\bin\\Debug\\netcoreapp3.1",
-    "\\Exercise 01\\bin\\Release",
     "\\Exercise 01\\obj",
     "\\Exercise 01\\obj\\Debug",
     "\\Exercise 01\\obj\\Debug\\netcoreapp3.1",
     "\\Exercise 01\\obj\\Release",
     "\\Exercise 01\\obj\\Release\\netcoreapp3.1"
   ],
-  "SelectedNode": "\\Exercise 01\\Exercise 01.sln",
   "PreviewInSolutionExplorer": false
 }

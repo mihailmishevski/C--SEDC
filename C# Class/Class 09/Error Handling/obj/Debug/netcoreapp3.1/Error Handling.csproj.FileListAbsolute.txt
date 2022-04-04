@@ -1,0 +1,14 @@
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\bin\Debug\netcoreapp3.1\Error Handling.exe
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\bin\Debug\netcoreapp3.1\Error Handling.deps.json
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\bin\Debug\netcoreapp3.1\Error Handling.runtimeconfig.json
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\bin\Debug\netcoreapp3.1\Error Handling.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\bin\Debug\netcoreapp3.1\Error Handling.dll
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\bin\Debug\netcoreapp3.1\Error Handling.pdb
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.AssemblyInfo.cs
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.dll
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.pdb
+C:\Users\mihai\Desktop\C#\C# Class\Class 09\Error Handling\obj\Debug\netcoreapp3.1\Error Handling.genruntimeconfig.cache

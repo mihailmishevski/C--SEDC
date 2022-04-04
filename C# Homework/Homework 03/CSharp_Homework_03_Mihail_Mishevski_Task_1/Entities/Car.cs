@@ -22,8 +22,7 @@ namespace CSharp_Homework_03_Mihail_Mishevski_Task_1.Entities
 
         public int CalculateSpeed(int skill)
         {
-            Result = skill * Speed;
-            return Result;
+            return skill * Speed;
         }
     }
 }
