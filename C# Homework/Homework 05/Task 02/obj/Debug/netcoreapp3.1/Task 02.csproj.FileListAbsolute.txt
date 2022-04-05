@@ -1,0 +1,17 @@
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Task 02.exe
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Task 02.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Task 02.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Task 02.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Task 02.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Task 02.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.csproj.CopyComplete
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework\Homework 05\Task 02\obj\Debug\netcoreapp3.1\Task 02.genruntimeconfig.cache
