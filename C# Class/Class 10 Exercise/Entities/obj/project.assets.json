@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\C#\\C# Class\\Class 10 Exercise\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class\\Class 10 Exercise\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\mihai\\Desktop\\C#\\C# Class\\Class 10 Exercise\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class\\Class 10 Exercise\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai\\Desktop\\C#\\C# Class\\Class 10 Exercise\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class\\Class 10 Exercise\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",

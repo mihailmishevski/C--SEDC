@@ -21,5 +21,10 @@ namespace Entities
             UserName = userName;
             Password = password;
         }
+
+        public void ShowInfo()
+        {
+            Console.WriteLine($"{FirstName} {LastName} Username : {UserName}");
+        }
     }
 }
