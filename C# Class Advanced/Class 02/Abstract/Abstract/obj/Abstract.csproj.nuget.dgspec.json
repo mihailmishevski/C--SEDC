@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Class 02\\Abstract\\Abstract\\Abstract.csproj": {}
+    "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 02\\Abstract\\Abstract\\Abstract.csproj": {}
   },
   "projects": {
-    "D:\\Class 02\\Abstract\\Abstract\\Abstract.csproj": {
+    "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 02\\Abstract\\Abstract\\Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Class 02\\Abstract\\Abstract\\Abstract.csproj",
+        "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 02\\Abstract\\Abstract\\Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "D:\\Class 02\\Abstract\\Abstract\\Abstract.csproj",
-        "packagesPath": "C:\\Users\\Mihail.Mishevski\\.nuget\\packages\\",
-        "outputPath": "D:\\Class 02\\Abstract\\Abstract\\obj\\",
+        "projectPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 02\\Abstract\\Abstract\\Abstract.csproj",
+        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 02\\Abstract\\Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mihail.Mishevski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

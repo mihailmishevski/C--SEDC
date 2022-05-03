@@ -1,0 +1,15 @@
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\bin\Debug\net6.0\GenericsExtension Homework New 01.exe
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\bin\Debug\net6.0\GenericsExtension Homework New 01.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\bin\Debug\net6.0\GenericsExtension Homework New 01.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\bin\Debug\net6.0\GenericsExtension Homework New 01.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\bin\Debug\net6.0\GenericsExtension Homework New 01.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\refint\GenericsExtension Homework New 01.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\GenericsExtension Homework New 01.genruntimeconfig.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Homework Advanced\Homework 03\GenericsExtension Homework New 01\obj\Debug\net6.0\ref\GenericsExtension Homework New 01.dll

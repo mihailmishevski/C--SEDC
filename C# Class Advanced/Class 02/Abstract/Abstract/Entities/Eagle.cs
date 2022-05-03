@@ -14,7 +14,7 @@ namespace Abstract.Entities
 
         public override void Sing()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Eagle is singing eagle song.");
         }
     }
 }
