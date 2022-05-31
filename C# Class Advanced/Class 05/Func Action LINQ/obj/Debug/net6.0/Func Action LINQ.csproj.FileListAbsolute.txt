@@ -1,0 +1,15 @@
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\bin\Debug\net6.0\Func Action LINQ.exe
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\bin\Debug\net6.0\Func Action LINQ.deps.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\bin\Debug\net6.0\Func Action LINQ.runtimeconfig.json
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\bin\Debug\net6.0\Func Action LINQ.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\bin\Debug\net6.0\Func Action LINQ.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.AssemblyInfo.cs
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\refint\Func Action LINQ.dll
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.pdb
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\Func Action LINQ.genruntimeconfig.cache
+C:\Users\mihai\Desktop\Академицаја\C#\C# Class Advanced\Class 05\Func Action LINQ\obj\Debug\net6.0\ref\Func Action LINQ.dll

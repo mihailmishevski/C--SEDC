@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YP51+s8q5DuiFa115kWZ3R11Hj5ZLnRMxm5Z6J1XVCEFAm56ey6zyn3b6bpcAjtVjRaDZILfNlDOUkbAabt81g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 09\\SerializeDeserialize\\SerializeDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

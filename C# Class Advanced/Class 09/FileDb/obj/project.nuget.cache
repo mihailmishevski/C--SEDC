@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U57vxE/AMtjBiZRqOe0UTDceVvNMnvr7Kdf4W2VYkKWOIaQTYVFCibvxy1LsXFxPaXs4q4k9EI8ypvrnqjJAJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mihai\\Desktop\\Академицаја\\C#\\C# Class Advanced\\Class 09\\FileDb\\FileDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
